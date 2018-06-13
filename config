@@ -1,0 +1,5 @@
+name                            : postgresql-demo
+author                          : Satoshi Nomofomo
+version                         : 1.0.0
+
+database                        : postgres://user:password@localhost:5432/puppies

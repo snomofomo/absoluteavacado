@@ -1,0 +1,16 @@
+{
+  "name": "postgre-total-demo",
+  "version": "1.0.0",
+  "description": "demo of postgres with total.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satoshi Nomofomo",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "pg-promise": "^8.4.4",
+    "sqlagent": "^11.0.4",
+    "total.js": "^2.9.4"
+  }
+}
